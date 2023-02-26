@@ -46,7 +46,7 @@ local list = {
 }
 
 
-local function Decode()
+local function Decode(Syntax)
     local NewSyntax = Syntax
     local NowLine = 1
     for i = 1, #list do
