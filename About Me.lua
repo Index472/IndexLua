@@ -1,19 +1,3 @@
---[[
-if you dont know me please dont execute am shy
-execute this codes at ur lua terminal and see output
-만약 저를 모른다면 이것을 실행하지 말아주세요.
-]]--
-
-
-
-local Message = [[
-💥💢🍔👍🍞🤪,☢️🥖😍🥚🚲💢😇💤😍⚔️☢️
-]]
-
-
-
-
-
 local list = {
     [1] = {"A", "🍎", "a", "😍"},
     [2] = {"B", "🐒", "b", "👍"},
